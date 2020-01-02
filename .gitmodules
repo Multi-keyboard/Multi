@@ -1,0 +1,9 @@
+[submodule "Multi-hardware"]
+	path = Multi-hardware
+	url = https://github.com/Multi-keyboard/Multi-hardware.git
+[submodule "Multi-software"]
+	path = Multi-software
+	url = https://github.com/Multi-keyboard/Multi-software.git
+[submodule "Multi-tests"]
+	path = Multi-tests
+	url = https://github.com/Multi-keyboard/Multi-tests.git
