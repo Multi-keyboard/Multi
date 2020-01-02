@@ -12,15 +12,16 @@
 ## Table of contents
 
 - [Table of contents](#table-of-contents)
-- [What is this?](#what-is-this)
+- [What's that](#whats-that)
 - [Structure](#structure)
 - [Development process](#development-process)
 - [Planned features](#planned-features)
 - [Tools](#tools)
   - [Hardware](#hardware)
   - [Software](#software)
+- [Quick start](#quick-start)
 
-## What is this?
+## What's that
 
 Todo.
 
@@ -28,10 +29,10 @@ Todo.
 
 The project is separated in 4 repositories:
 
-- **`Multi`**: Contains documentation, and the other 3 repositories as submodules
-- **`Multi-software`**: Contains the keyboard's firmware and desktop tools
-- **`Multi-hardware`**: Contains the keyboard's pcb, case and more
-- **`Multi-tests`**: Preliminary tests for each feature of the keyboard (hardware, software)
+- **[Multi](https://github.com/Multi-keyboard/Multi)**: Contains documentation, and the other 3 repositories as submodules
+- **[Multi-software](https://github.com/Multi-keyboard/Multi-software)**: Contains the keyboard's firmware and desktop tools
+- **[Multi-hardware](https://github.com/Multi-keyboard/Multi-hardware)**: Contains the keyboard's pcb, case and more
+- **[Multi-tests](https://github.com/Multi-keyboard/Multi-tests)**: Preliminary tests for each feature of the keyboard (hardware, software)
 
 ## Development process
 
@@ -84,3 +85,7 @@ At some point when enough features have been added, a prototype keyboard will be
 - **[uGFX](https://ugfx.io/)**: Oled display
 - **[Docsify](https://docsify.js.org/)**: Documentation
 - **[libusb](https://libusb.info/)**: USB communication
+
+## Quick start
+
+Todo.
