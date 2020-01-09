@@ -52,18 +52,19 @@ At some point when enough features have been added, a prototype keyboard will be
 - :black_medium_square::black_medium_square::black_medium_square: Macro GUI editor
 - :black_medium_square::black_medium_square::white_medium_square: Key stabilizers for `space, shift, enter, backspace, +, 0`
 - :black_medium_square::black_medium_square::white_medium_square: Media keys: play/pause, next
-- :black_medium_square::black_medium_square::white_medium_square: Rotary knob to control volume,
-- :black_medium_square::black_medium_square::white_medium_square: USB firmware updates
-- :black_medium_square::black_medium_square::white_medium_square: USB Passthrough. *This might be too hard for me: dfu over a usb hub?*
+- :black_medium_square::black_medium_square::white_medium_square: Rotary knob to control volume
+- :black_medium_square::black_medium_square::white_medium_square: USB 2.0 with Type-C receptacle
+- :black_medium_square::black_medium_square::white_medium_square: USB dfu firmware updates
+- :black_medium_square::black_medium_square::white_medium_square: USB Passthrough :
   - [USB hub](https://hackaday.io/project/160872-4-port-usb-hub-in-a-square-inch), verify bandwidth of keyboard while transferring files
   - USB2507 for High-Speed USB HUB
   - [TUSB8020B](http://www.ti.com/product/TUSB8020B/toolssoftware) for SuperSpeed USB (hand-solderable :smile:) + reference design
 - :black_medium_square::white_medium_square::white_medium_square: On-keyboard macro recording
-- :black_medium_square::white_medium_square::white_medium_square: RGB Underglow (depends on case)
+- :black_medium_square::white_medium_square::white_medium_square: RGB Underglow (if transparent case)
 - :black_medium_square::white_medium_square::white_medium_square: Fader or [SliderBar](https://github.com/Haellsigh/SliderBar) on top
-- :black_medium_square::white_medium_square::white_medium_square: Cable (either)
+- :black_medium_square::white_medium_square::white_medium_square: Cable (either):
   - Custom braided cable (usb+usb+audio)
-  - USB Type-C detachable cable (usb hub)
+  - Normal USB Type-C detachable cable (with usb hub on keyboard)
 - :black_medium_square::white_medium_square::white_medium_square: Aluminum plate for rigidity
 - :black_medium_square::white_medium_square::white_medium_square: Oled display
 - :white_medium_square::white_medium_square::white_medium_square: Audio passthrough
